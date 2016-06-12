@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 7245cbc924a163e48a57ad1c0112dd12
+timeCreated: 1447939429
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boulder0
+    100002: Boulder1
+    100004: Boulder2
+    100006: Boulder3
+    100008: Boulder4
+    100010: Bush1
+    100012: Bush3
+    100014: Hillock4
+    100016: Hillock7
+    100018: //RootNode
+    100020: Monolith0
+    100022: Monolith1
+    100024: Monolith2
+    100026: Monolith3
+    100028: Monolith4
+    100030: Monolith5
+    100032: Plane
+    100034: Plane_3
+    100036: Tree0
+    100038: Tree2
+    100040: Tree5
+    100042: Tree8
+    400000: Boulder0
+    400002: Boulder1
+    400004: Boulder2
+    400006: Boulder3
+    400008: Boulder4
+    400010: Bush1
+    400012: Bush3
+    400014: Hillock4
+    400016: Hillock7
+    400018: //RootNode
+    400020: Monolith0
+    400022: Monolith1
+    400024: Monolith2
+    400026: Monolith3
+    400028: Monolith4
+    400030: Monolith5
+    400032: Plane
+    400034: Plane_3
+    400036: Tree0
+    400038: Tree2
+    400040: Tree5
+    400042: Tree8
+    2300000: Boulder0
+    2300002: Boulder1
+    2300004: Boulder2
+    2300006: Boulder3
+    2300008: Boulder4
+    2300010: Bush1
+    2300012: Bush3
+    2300014: Hillock4
+    2300016: Hillock7
+    2300018: Monolith0
+    2300020: Monolith1
+    2300022: Monolith2
+    2300024: Monolith3
+    2300026: Monolith4
+    2300028: Monolith5
+    2300030: Plane
+    2300032: Plane_3
+    2300034: Tree0
+    2300036: Tree2
+    2300038: Tree5
+    2300040: Tree8
+    3300000: Boulder0
+    3300002: Boulder1
+    3300004: Boulder2
+    3300006: Boulder3
+    3300008: Boulder4
+    3300010: Bush1
+    3300012: Bush3
+    3300014: Hillock4
+    3300016: Hillock7
+    3300018: Monolith0
+    3300020: Monolith1
+    3300022: Monolith2
+    3300024: Monolith3
+    3300026: Monolith4
+    3300028: Monolith5
+    3300030: Plane
+    3300032: Plane_3
+    3300034: Tree0
+    3300036: Tree2
+    3300038: Tree5
+    3300040: Tree8
+    4300000: Boulder0
+    4300002: Boulder1
+    4300004: Boulder2
+    4300006: Boulder3
+    4300008: Boulder4
+    4300010: Bush1
+    4300012: Bush3
+    4300014: Hillock4
+    4300016: Hillock7
+    4300018: Monolith0
+    4300020: Monolith1
+    4300022: Monolith2
+    4300024: Monolith3
+    4300026: Monolith4
+    4300028: Monolith5
+    4300030: Plane
+    4300032: Tree0
+    4300034: Tree2
+    4300036: Tree5
+    4300038: Tree8
+    4300040: Plane_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

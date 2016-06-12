@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 016632a761ea8704ba7bdb618fa18202
+timeCreated: 1449633365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Blade
+    100002: Cylinder001
+    100004: Cylinder002
+    100006: Ring003
+    100008: Ring004
+    100010: Ring005
+    100012: Ring006
+    100014: Ring007
+    100016: Ring008
+    100018: Ring009
+    100020: Ring01
+    100022: Ring02
+    100024: //RootNode
+    100026: Torus001
+    400000: Blade
+    400002: Cylinder001
+    400004: Cylinder002
+    400006: Ring003
+    400008: Ring004
+    400010: Ring005
+    400012: Ring006
+    400014: Ring007
+    400016: Ring008
+    400018: Ring009
+    400020: Ring01
+    400022: Ring02
+    400024: //RootNode
+    400026: Torus001
+    2300000: Blade
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Ring003
+    2300008: Ring004
+    2300010: Ring005
+    2300012: Ring006
+    2300014: Ring007
+    2300016: Ring008
+    2300018: Ring009
+    2300020: Ring01
+    2300022: Ring02
+    2300024: Torus001
+    3300000: Blade
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Ring003
+    3300008: Ring004
+    3300010: Ring005
+    3300012: Ring006
+    3300014: Ring007
+    3300016: Ring008
+    3300018: Ring009
+    3300020: Ring01
+    3300022: Ring02
+    3300024: Torus001
+    4300000: Blade
+    4300002: Ring01
+    4300004: Ring02
+    4300006: Ring003
+    4300008: Ring004
+    4300010: Ring005
+    4300012: Ring006
+    4300014: Ring007
+    4300016: Ring008
+    4300018: Ring009
+    4300020: Torus001
+    4300022: Cylinder001
+    4300024: Cylinder002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

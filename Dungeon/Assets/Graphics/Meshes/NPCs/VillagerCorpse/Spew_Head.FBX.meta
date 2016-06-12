@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 5c9774d1f75ef544aaf87bf3a589fecd
+timeCreated: 1447804035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: AbominableHead1
+    100004: AbominableHead3
+    100006: AbominableHead4
+    100008: bone_brovi
+    100010: bone_chelust
+    100012: bone_eye
+    100014: bone_head
+    100016: bone_root
+    100018: bone_skull
+    100020: m3bone_root
+    100022: //RootNode
+    400000: _M3_Anim_Data
+    400002: AbominableHead1
+    400004: AbominableHead3
+    400006: AbominableHead4
+    400008: bone_brovi
+    400010: bone_chelust
+    400012: bone_eye
+    400014: bone_head
+    400016: bone_root
+    400018: bone_skull
+    400020: m3bone_root
+    400022: //RootNode
+    4300000: AbominableHead1
+    4300002: AbominableHead3
+    4300004: AbominableHead4
+    7400000: SpewHead_Idle
+    7400002: SpewHead_Attack
+    7400004: SpewHead_Damaged
+    7400006: SpewHead_Run
+    7400008: SpewHead_Death
+    9500000: //RootNode
+    13700000: AbominableHead1
+    13700002: AbominableHead3
+    13700004: AbominableHead4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpewHead_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: AbominableHead1
+        weight: 1
+      - path: AbominableHead3
+        weight: 1
+      - path: AbominableHead4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/bone_root
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_brovi
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_chelust
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_eye
+        weight: 1
+      - path: m3bone_root/bone_root/bone_skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewHead_Attack
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .121710524
+        functionName: Attack
+        data: 
+        objectReferenceParameter: {fileID: 100022, guid: 5c9774d1f75ef544aaf87bf3a589fecd,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: AbominableHead1
+        weight: 1
+      - path: AbominableHead3
+        weight: 1
+      - path: AbominableHead4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/bone_root
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_brovi
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_chelust
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_eye
+        weight: 1
+      - path: m3bone_root/bone_root/bone_skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewHead_Damaged
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: AbominableHead1
+        weight: 1
+      - path: AbominableHead3
+        weight: 1
+      - path: AbominableHead4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/bone_root
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_brovi
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_chelust
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_eye
+        weight: 1
+      - path: m3bone_root/bone_root/bone_skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewHead_Run
+      takeName: Take 001
+      firstFrame: 115
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: AbominableHead1
+        weight: 1
+      - path: AbominableHead3
+        weight: 1
+      - path: AbominableHead4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/bone_root
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_brovi
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_chelust
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_eye
+        weight: 1
+      - path: m3bone_root/bone_root/bone_skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewHead_Death
+      takeName: Take 001
+      firstFrame: 175
+      lastFrame: 594
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: AbominableHead1
+        weight: 1
+      - path: AbominableHead3
+        weight: 1
+      - path: AbominableHead4
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/bone_root
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_brovi
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_chelust
+        weight: 1
+      - path: m3bone_root/bone_root/bone_head/bone_eye
+        weight: 1
+      - path: m3bone_root/bone_root/bone_skull
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 90
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

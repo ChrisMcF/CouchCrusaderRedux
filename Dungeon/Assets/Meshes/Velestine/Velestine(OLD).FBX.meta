@@ -1,0 +1,4377 @@
+fileFormatVersion: 2
+guid: 89d7deec66ecd5543b0f23ae7f7f29fb
+timeCreated: 1448409247
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: B_Arm
+    100004: B_ArmUp
+    100006: B_BFinger
+    100008: B_Finger 1
+    100010: B_Finger_ 1
+    100012: B_Hand
+    100014: Blade_Rib
+    100016: Bone_ Super_Root
+    100018: Bone_Chest
+    100020: Bone_Head
+    100022: Bone_Hip
+    100024: Bone_Hip_Blade
+    100026: Bone_Mouth
+    100028: bone_new3
+    100030: bone_new4
+    100032: bone_null
+    100034: Bone_Root_Blade
+    100036: Bone_Root_Body
+    100038: Chest Ref
+    100040: Diamon
+    100042: Dummy Ref
+    100044: Firaga1
+    100046: Firaga10
+    100048: Firaga11
+    100050: Firaga12
+    100052: Firaga2
+    100054: Firaga3
+    100056: Firaga4
+    100058: Firaga5
+    100060: Firaga6
+    100062: Firaga7
+    100064: Firaga8
+    100066: Firaga9
+    100068: Hair_0
+    100070: Hair_1
+    100072: Hand Left Ref
+    100074: Hand Right Ref
+    100076: Head Ref
+    100078: L_Arm
+    100080: L_ArmUp
+    100082: L_Blade
+    100084: L_Hand
+    100086: L_Spike
+    100088: m3bone_root
+    100090: Origin Ref
+    100092: Overhead Ref
+    100094: Plane001
+    100096: R_Arm
+    100098: R_ArmUp
+    100100: R_Blade
+    100102: R_Hand
+    100104: R_Spike
+    100106: Vam
+    100108: //RootNode
+    400000: _M3_Anim_Data
+    400002: B_Arm
+    400004: B_ArmUp
+    400006: B_BFinger
+    400008: B_Finger 1
+    400010: B_Finger_ 1
+    400012: B_Hand
+    400014: Blade_Rib
+    400016: Bone_ Super_Root
+    400018: Bone_Chest
+    400020: Bone_Head
+    400022: Bone_Hip
+    400024: Bone_Hip_Blade
+    400026: Bone_Mouth
+    400028: bone_new3
+    400030: bone_new4
+    400032: bone_null
+    400034: Bone_Root_Blade
+    400036: Bone_Root_Body
+    400038: Chest Ref
+    400040: Diamon
+    400042: Dummy Ref
+    400044: Firaga1
+    400046: Firaga10
+    400048: Firaga11
+    400050: Firaga12
+    400052: Firaga2
+    400054: Firaga3
+    400056: Firaga4
+    400058: Firaga5
+    400060: Firaga6
+    400062: Firaga7
+    400064: Firaga8
+    400066: Firaga9
+    400068: Hair_0
+    400070: Hair_1
+    400072: Hand Left Ref
+    400074: Hand Right Ref
+    400076: Head Ref
+    400078: L_Arm
+    400080: L_ArmUp
+    400082: L_Blade
+    400084: L_Hand
+    400086: L_Spike
+    400088: m3bone_root
+    400090: Origin Ref
+    400092: Overhead Ref
+    400094: Plane001
+    400096: R_Arm
+    400098: R_ArmUp
+    400100: R_Blade
+    400102: R_Hand
+    400104: R_Spike
+    400106: Vam
+    400108: //RootNode
+    2300000: Firaga3
+    2300002: Plane001
+    3300000: Firaga3
+    3300002: Plane001
+    4300000: Firaga1
+    4300002: Firaga2
+    4300004: Firaga4
+    4300006: Firaga5
+    4300008: Firaga6
+    4300010: Firaga7
+    4300012: Firaga8
+    4300014: Firaga9
+    4300016: Firaga10
+    4300018: Firaga11
+    4300020: Firaga12
+    4300022: Firaga3
+    4300024: Plane001
+    7400000: Vel_Fem_Taunt
+    7400002: Vel_Fem_Damage
+    7400004: Vel_Fem_AttackThrow
+    7400006: Vel_Fem_AttackMelee
+    7400008: Vel_Fem_AttackSpin
+    7400010: Vel_Fem_AttackMeleeHeavy
+    7400012: Vel_Fem_SpinLoop
+    7400014: Vel_Fem_Idle
+    7400016: Vel_Fem_Death
+    7400018: Vel_Fem_Transform
+    7400020: Vel_Mas_Transform
+    7400022: Vel_Mas_Idle
+    7400024: Vel_Mas_Attack1
+    7400026: Vel_Mas_Attack2
+    7400028: Vel_Mas_AttackDrill
+    7400030: Vel_Mas_AttackHeavy
+    7400032: Vel_Mas_AttackTwirl
+    7400034: Vel_Mas_BeginCast
+    7400036: Vel_Mas_ChannelCast
+    7400038: Vel_Mas_DrillLoop
+    7400040: Vel_Mas_TwirlLoop
+    7400042: Vel_Mas_Move
+    7400044: Vel_Mas_AttackStabDown
+    7400046: Vel_Mas_Death
+    9500000: //RootNode
+    13700000: Firaga1
+    13700002: Firaga10
+    13700004: Firaga11
+    13700006: Firaga12
+    13700008: Firaga2
+    13700010: Firaga4
+    13700012: Firaga5
+    13700014: Firaga6
+    13700016: Firaga7
+    13700018: Firaga8
+    13700020: Firaga9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Vel_Fem_Taunt
+      takeName: Take 001
+      firstFrame: 365
+      lastFrame: 493
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .22612679
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: .22612679
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_Damage
+      takeName: Take 001
+      firstFrame: 774
+      lastFrame: 779
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_AttackThrow
+      takeName: Take 001
+      firstFrame: 533
+      lastFrame: 561
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: .00180319324
+            value: .0232323706
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .147019237
+            value: .281370193
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .310181886
+            value: 1.71995485
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .550974786
+            value: 1.08755386
+            inSlope: -2.03025341
+            outSlope: -2.03025341
+            tangentMode: 0
+          - time: .638654232
+            value: .0274155028
+            inSlope: .0170765221
+            outSlope: .0170765221
+            tangentMode: 0
+          - time: .99819684
+            value: .0466503203
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .56118089
+        functionName: CallAttack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_AttackMelee
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 634
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_AttackSpin
+      takeName: Take 001
+      firstFrame: 636
+      lastFrame: 676
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_AttackMeleeHeavy
+      takeName: Take 001
+      firstFrame: 676
+      lastFrame: 718
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .152627915
+            value: .0130123496
+            inSlope: .238781661
+            outSlope: .238781661
+            tangentMode: 0
+          - time: .263826817
+            value: 2.02027178
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .349397182
+            value: 1.49003863
+            inSlope: -3.76846933
+            outSlope: -3.76846933
+            tangentMode: 0
+          - time: .41183576
+            value: -.000511888531
+            inSlope: .000569853
+            outSlope: .000569853
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .344202906
+            value: .0429862849
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .401271611
+            value: 2.2335887
+            inSlope: .000766012818
+            outSlope: .000766012818
+            tangentMode: 0
+          - time: .719710529
+            value: 1.2637341
+            inSlope: -9.88960266
+            outSlope: -9.88960266
+            tangentMode: 0
+          - time: .774725258
+            value: .321356088
+            inSlope: -5.18183422
+            outSlope: -5.18183422
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_SpinLoop
+      takeName: Take 001
+      firstFrame: 723
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .491575301
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: .491575301
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_Idle
+      takeName: Take 001
+      firstFrame: 64
+      lastFrame: 123
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 2.50329304
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 2.50329304
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_Death
+      takeName: Take 001
+      firstFrame: 774
+      lastFrame: 819
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Fem_Transform
+      takeName: Take 001
+      firstFrame: 855
+      lastFrame: 883
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .196004778
+        functionName: SplitHead
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      - time: .0666659847
+        functionName: SplitHead
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_Transform
+      takeName: Take 001
+      firstFrame: 883
+      lastFrame: 906
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_Idle
+      takeName: Take 001
+      firstFrame: 911
+      lastFrame: 973
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1.9986341
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1.9986341
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_Attack1
+      takeName: Take 001
+      firstFrame: 973
+      lastFrame: 1004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .12560387
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .268755913
+            value: 1.26592946
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .464628667
+            value: 1.00406587
+            inSlope: -1.92821026
+            outSlope: -1.92821026
+            tangentMode: 0
+          - time: .512986064
+            value: .0223360397
+            inSlope: -.137348771
+            outSlope: -.137348771
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .365942031
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .452364355
+            value: 1.50650895
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .63479048
+            value: 1.02215886
+            inSlope: -4.2855525
+            outSlope: -4.2855525
+            tangentMode: 0
+          - time: .786739349
+            value: .164559007
+            inSlope: -2.00900698
+            outSlope: -2.00900698
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_Attack2
+      takeName: Take 001
+      firstFrame: 1007
+      lastFrame: 1043
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .144927531
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .261730641
+            value: 1.49507713
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .355043709
+            value: 1.429461
+            inSlope: -1.34110451
+            outSlope: -1.34110451
+            tangentMode: 0
+          - time: .397539467
+            value: -.000193953514
+            inSlope: .00342875137
+            outSlope: .00342875137
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .341787428
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .44667387
+            value: 1.3190273
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .585850835
+            value: 1.04199195
+            inSlope: -3.45140696
+            outSlope: -3.45140696
+            tangentMode: 0
+          - time: .638154685
+            value: .200254291
+            inSlope: -1.38261473
+            outSlope: -1.38261473
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_AttackDrill
+      takeName: Take 001
+      firstFrame: 1043
+      lastFrame: 1082
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .144927531
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .206141293
+            value: 1.48799205
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .358377755
+            value: 1.00925708
+            inSlope: -3.87208867
+            outSlope: -3.87208867
+            tangentMode: 0
+          - time: .41034016
+            value: .00683987141
+            inSlope: .017716676
+            outSlope: .017716676
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .247584537
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .271050572
+            value: 1.49508762
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .370680124
+            value: .979171574
+            inSlope: -19.8676319
+            outSlope: -19.8676319
+            tangentMode: 0
+          - time: .394927531
+            value: .016429536
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_AttackHeavy
+      takeName: Take 001
+      firstFrame: 1085
+      lastFrame: 1124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .117149755
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .198260516
+            value: 1.2156446
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .327095628
+            value: 1.00169134
+            inSlope: -1.60336494
+            outSlope: -1.60336494
+            tangentMode: 0
+          - time: .362663895
+            value: .0199838262
+            inSlope: -.00425147358
+            outSlope: -.00425147358
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .303140104
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .368716806
+            value: 1.48980737
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: .474248946
+            value: 1.19232154
+            inSlope: -3.53038311
+            outSlope: -3.53038311
+            tangentMode: 0
+          - time: .498905599
+            value: .00220572948
+            inSlope: .17661801
+            outSlope: .17661801
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_AttackTwirl
+      takeName: Take 001
+      firstFrame: 1124
+      lastFrame: 1164
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_BeginCast
+      takeName: Take 001
+      firstFrame: 1197
+      lastFrame: 1225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_ChannelCast
+      takeName: Take 001
+      firstFrame: 1225
+      lastFrame: 1253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_DrillLoop
+      takeName: Take 001
+      firstFrame: 1262
+      lastFrame: 1276
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_TwirlLoop
+      takeName: Take 001
+      firstFrame: 1283
+      lastFrame: 1311
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_Move
+      takeName: Take 001
+      firstFrame: 1317
+      lastFrame: 1339
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1.97667408
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1.97667408
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_AttackStabDown
+      takeName: Take 001
+      firstFrame: 1166
+      lastFrame: 1197
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vel_Mas_Death
+      takeName: Take 001
+      firstFrame: 1343
+      lastFrame: 1382
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: Firaga10
+        weight: 1
+      - path: Firaga11
+        weight: 1
+      - path: Firaga12
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_BFinger
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger 1/bone_new3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/B_Finger_ 1/bone_new4
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Bone_Mouth
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Hair_0/Hair_1
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Head/Head
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Blade_Rib
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/Dummy
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/L_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/B_ArmUp/B_Arm/B_Hand/Bone_Root_Blade/Bone_Hip_Blade/R_Blade
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Firaga3
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/L_ArmUp/L_Arm/L_Hand/Hand
+          Left Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Overhead Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/Plane001
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/Diamon
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Chest/R_ArmUp/R_Arm/R_Hand/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/L_Spike
+        weight: 1
+      - path: m3bone_root/Bone_ Super_Root/Bone_Root_Body/Bone_Hip/R_Spike
+        weight: 1
+      - path: m3bone_root/bone_null
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: m3bone_root/Vam
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 110
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 91fe093b1a8d4a8498e7e50e79c5c2c9
+timeCreated: 1445384773
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlimeSplatSprSheet_0
+    21300002: SlimeSplatSprSheet_1
+    21300004: SlimeSplatSprSheet_2
+    21300006: SlimeSplatSprSheet_3
+    21300008: SlimeSplatSprSheet_4
+    21300010: SlimeSplatSprSheet_5
+    21300012: SlimeSplatSprSheet_6
+    21300014: SlimeSplatSprSheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SlimeSplatSprSheet_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 124
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 113
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 108
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 86
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 64
+        width: 143
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 38
+        width: 195
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 24
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlimeSplatSprSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 2
+        width: 254
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

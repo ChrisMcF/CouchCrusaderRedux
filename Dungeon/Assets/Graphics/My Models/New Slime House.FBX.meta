@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 79cfd14d81de6f541b85d315fad4990a
+timeCreated: 1447846282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: Box013
+    100026: Box014
+    100028: Box015
+    100030: Box016
+    100032: Box017
+    100034: Box018
+    100036: Box019
+    100038: Cylinder001
+    100040: Cylinder003
+    100042: Cylinder004
+    100044: Cylinder005
+    100046: Cylinder006
+    100048: Cylinder007
+    100050: Cylinder008
+    100052: Cylinder009
+    100054: Cylinder010
+    100056: Cylinder011
+    100058: Cylinder012
+    100060: Cylinder013
+    100062: Cylinder014
+    100064: Cylinder015
+    100066: Cylinder016
+    100068: Cylinder017
+    100070: Cylinder018
+    100072: Cylinder019
+    100074: Cylinder020
+    100076: Cylinder021
+    100078: Cylinder022
+    100080: Cylinder023
+    100082: Cylinder024
+    100084: Cylinder025
+    100086: Cylinder026
+    100088: Cylinder027
+    100090: Cylinder028
+    100092: Cylinder029
+    100094: Cylinder030
+    100096: Cylinder031
+    100098: Cylinder032
+    100100: Cylinder033
+    100102: Cylinder034
+    100104: Cylinder035
+    100106: Cylinder036
+    100108: Cylinder037
+    100110: Cylinder038
+    100112: Cylinder039
+    100114: Cylinder040
+    100116: Cylinder041
+    100118: Cylinder042
+    100120: Cylinder043
+    100122: Cylinder044
+    100124: Cylinder045
+    100126: Cylinder046
+    100128: Cylinder047
+    100130: Cylinder048
+    100132: Cylinder049
+    100134: Cylinder050
+    100136: Cylinder051
+    100138: Cylinder052
+    100140: Cylinder053
+    100142: Cylinder054
+    100144: Cylinder055
+    100146: Cylinder056
+    100148: Cylinder057
+    100150: Cylinder058
+    100152: Cylinder059
+    100154: Cylinder060
+    100156: Cylinder061
+    100158: Cylinder062
+    100160: Cylinder063
+    100162: Cylinder064
+    100164: Cylinder065
+    100166: Cylinder066
+    100168: Cylinder067
+    100170: Cylinder068
+    100172: Cylinder069
+    100174: Cylinder070
+    100176: Cylinder071
+    100178: Cylinder072
+    100180: Cylinder073
+    100182: //RootNode
+    100184: Roman Thing01
+    100186: Roman Thing02
+    100188: Roman Thing03
+    100190: Roman Thing04
+    100192: Roman Thing05
+    100194: Roman Thing06
+    100196: Roman Thing07
+    100198: Roman Thing08
+    100200: Roman Thing09
+    100202: Roman Thing10
+    100204: Roman Thing11
+    100206: Roman Thing12
+    100208: Roman Thing13
+    100210: Roman Thing14
+    100212: Roman Thing15
+    100214: Roman Thing16
+    100216: Roman Thing17
+    100218: Roman Thing18
+    100220: Roman Thing19
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: Box013
+    400026: Box014
+    400028: Box015
+    400030: Box016
+    400032: Box017
+    400034: Box018
+    400036: Box019
+    400038: Cylinder001
+    400040: Cylinder003
+    400042: Cylinder004
+    400044: Cylinder005
+    400046: Cylinder006
+    400048: Cylinder007
+    400050: Cylinder008
+    400052: Cylinder009
+    400054: Cylinder010
+    400056: Cylinder011
+    400058: Cylinder012
+    400060: Cylinder013
+    400062: Cylinder014
+    400064: Cylinder015
+    400066: Cylinder016
+    400068: Cylinder017
+    400070: Cylinder018
+    400072: Cylinder019
+    400074: Cylinder020
+    400076: Cylinder021
+    400078: Cylinder022
+    400080: Cylinder023
+    400082: Cylinder024
+    400084: Cylinder025
+    400086: Cylinder026
+    400088: Cylinder027
+    400090: Cylinder028
+    400092: Cylinder029
+    400094: Cylinder030
+    400096: Cylinder031
+    400098: Cylinder032
+    400100: Cylinder033
+    400102: Cylinder034
+    400104: Cylinder035
+    400106: Cylinder036
+    400108: Cylinder037
+    400110: Cylinder038
+    400112: Cylinder039
+    400114: Cylinder040
+    400116: Cylinder041
+    400118: Cylinder042
+    400120: Cylinder043
+    400122: Cylinder044
+    400124: Cylinder045
+    400126: Cylinder046
+    400128: Cylinder047
+    400130: Cylinder048
+    400132: Cylinder049
+    400134: Cylinder050
+    400136: Cylinder051
+    400138: Cylinder052
+    400140: Cylinder053
+    400142: Cylinder054
+    400144: Cylinder055
+    400146: Cylinder056
+    400148: Cylinder057
+    400150: Cylinder058
+    400152: Cylinder059
+    400154: Cylinder060
+    400156: Cylinder061
+    400158: Cylinder062
+    400160: Cylinder063
+    400162: Cylinder064
+    400164: Cylinder065
+    400166: Cylinder066
+    400168: Cylinder067
+    400170: Cylinder068
+    400172: Cylinder069
+    400174: Cylinder070
+    400176: Cylinder071
+    400178: Cylinder072
+    400180: Cylinder073
+    400182: //RootNode
+    400184: Roman Thing01
+    400186: Roman Thing02
+    400188: Roman Thing03
+    400190: Roman Thing04
+    400192: Roman Thing05
+    400194: Roman Thing06
+    400196: Roman Thing07
+    400198: Roman Thing08
+    400200: Roman Thing09
+    400202: Roman Thing10
+    400204: Roman Thing11
+    400206: Roman Thing12
+    400208: Roman Thing13
+    400210: Roman Thing14
+    400212: Roman Thing15
+    400214: Roman Thing16
+    400216: Roman Thing17
+    400218: Roman Thing18
+    400220: Roman Thing19
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Box009
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: Box013
+    2300026: Box014
+    2300028: Box015
+    2300030: Box016
+    2300032: Box017
+    2300034: Box018
+    2300036: Box019
+    2300038: Cylinder001
+    2300040: Cylinder003
+    2300042: Cylinder004
+    2300044: Cylinder005
+    2300046: Cylinder006
+    2300048: Cylinder007
+    2300050: Cylinder008
+    2300052: Cylinder009
+    2300054: Cylinder010
+    2300056: Cylinder011
+    2300058: Cylinder012
+    2300060: Cylinder013
+    2300062: Cylinder014
+    2300064: Cylinder015
+    2300066: Cylinder016
+    2300068: Cylinder017
+    2300070: Cylinder018
+    2300072: Cylinder019
+    2300074: Cylinder020
+    2300076: Cylinder021
+    2300078: Cylinder022
+    2300080: Cylinder023
+    2300082: Cylinder024
+    2300084: Cylinder025
+    2300086: Cylinder026
+    2300088: Cylinder027
+    2300090: Cylinder028
+    2300092: Cylinder029
+    2300094: Cylinder030
+    2300096: Cylinder031
+    2300098: Cylinder032
+    2300100: Cylinder033
+    2300102: Cylinder034
+    2300104: Cylinder035
+    2300106: Cylinder036
+    2300108: Cylinder037
+    2300110: Cylinder038
+    2300112: Cylinder039
+    2300114: Cylinder040
+    2300116: Cylinder041
+    2300118: Cylinder042
+    2300120: Cylinder043
+    2300122: Cylinder044
+    2300124: Cylinder045
+    2300126: Cylinder046
+    2300128: Cylinder047
+    2300130: Cylinder048
+    2300132: Cylinder049
+    2300134: Cylinder050
+    2300136: Cylinder051
+    2300138: Cylinder052
+    2300140: Cylinder053
+    2300142: Cylinder054
+    2300144: Cylinder055
+    2300146: Cylinder056
+    2300148: Cylinder057
+    2300150: Cylinder058
+    2300152: Cylinder059
+    2300154: Cylinder060
+    2300156: Cylinder061
+    2300158: Cylinder062
+    2300160: Cylinder063
+    2300162: Cylinder064
+    2300164: Cylinder065
+    2300166: Cylinder066
+    2300168: Cylinder067
+    2300170: Cylinder068
+    2300172: Cylinder069
+    2300174: Cylinder070
+    2300176: Cylinder071
+    2300178: Cylinder072
+    2300180: Cylinder073
+    2300182: //RootNode
+    2300184: Roman Thing01
+    2300186: Roman Thing02
+    2300188: Roman Thing03
+    2300190: Roman Thing04
+    2300192: Roman Thing05
+    2300194: Roman Thing06
+    2300196: Roman Thing07
+    2300198: Roman Thing08
+    2300200: Roman Thing09
+    2300202: Roman Thing10
+    2300204: Roman Thing11
+    2300206: Roman Thing12
+    2300208: Roman Thing13
+    2300210: Roman Thing14
+    2300212: Roman Thing15
+    2300214: Roman Thing16
+    2300216: Roman Thing17
+    2300218: Roman Thing18
+    2300220: Roman Thing19
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Box009
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: Box013
+    3300026: Box014
+    3300028: Box015
+    3300030: Box016
+    3300032: Box017
+    3300034: Box018
+    3300036: Box019
+    3300038: Cylinder001
+    3300040: Cylinder003
+    3300042: Cylinder004
+    3300044: Cylinder005
+    3300046: Cylinder006
+    3300048: Cylinder007
+    3300050: Cylinder008
+    3300052: Cylinder009
+    3300054: Cylinder010
+    3300056: Cylinder011
+    3300058: Cylinder012
+    3300060: Cylinder013
+    3300062: Cylinder014
+    3300064: Cylinder015
+    3300066: Cylinder016
+    3300068: Cylinder017
+    3300070: Cylinder018
+    3300072: Cylinder019
+    3300074: Cylinder020
+    3300076: Cylinder021
+    3300078: Cylinder022
+    3300080: Cylinder023
+    3300082: Cylinder024
+    3300084: Cylinder025
+    3300086: Cylinder026
+    3300088: Cylinder027
+    3300090: Cylinder028
+    3300092: Cylinder029
+    3300094: Cylinder030
+    3300096: Cylinder031
+    3300098: Cylinder032
+    3300100: Cylinder033
+    3300102: Cylinder034
+    3300104: Cylinder035
+    3300106: Cylinder036
+    3300108: Cylinder037
+    3300110: Cylinder038
+    3300112: Cylinder039
+    3300114: Cylinder040
+    3300116: Cylinder041
+    3300118: Cylinder042
+    3300120: Cylinder043
+    3300122: Cylinder044
+    3300124: Cylinder045
+    3300126: Cylinder046
+    3300128: Cylinder047
+    3300130: Cylinder048
+    3300132: Cylinder049
+    3300134: Cylinder050
+    3300136: Cylinder051
+    3300138: Cylinder052
+    3300140: Cylinder053
+    3300142: Cylinder054
+    3300144: Cylinder055
+    3300146: Cylinder056
+    3300148: Cylinder057
+    3300150: Cylinder058
+    3300152: Cylinder059
+    3300154: Cylinder060
+    3300156: Cylinder061
+    3300158: Cylinder062
+    3300160: Cylinder063
+    3300162: Cylinder064
+    3300164: Cylinder065
+    3300166: Cylinder066
+    3300168: Cylinder067
+    3300170: Cylinder068
+    3300172: Cylinder069
+    3300174: Cylinder070
+    3300176: Cylinder071
+    3300178: Cylinder072
+    3300180: Cylinder073
+    3300182: //RootNode
+    3300184: Roman Thing01
+    3300186: Roman Thing02
+    3300188: Roman Thing03
+    3300190: Roman Thing04
+    3300192: Roman Thing05
+    3300194: Roman Thing06
+    3300196: Roman Thing07
+    3300198: Roman Thing08
+    3300200: Roman Thing09
+    3300202: Roman Thing10
+    3300204: Roman Thing11
+    3300206: Roman Thing12
+    3300208: Roman Thing13
+    3300210: Roman Thing14
+    3300212: Roman Thing15
+    3300214: Roman Thing16
+    3300216: Roman Thing17
+    3300218: Roman Thing18
+    3300220: Roman Thing19
+    4300000: Roman Thing
+    4300002: Roman Thing01
+    4300004: Box018
+    4300006: Cylinder070
+    4300008: Cylinder071
+    4300010: Cylinder072
+    4300012: Cylinder073
+    4300014: Roman Thing02
+    4300016: Box017
+    4300018: Cylinder066
+    4300020: Cylinder067
+    4300022: Cylinder068
+    4300024: Cylinder069
+    4300026: Roman Thing03
+    4300028: Box016
+    4300030: Cylinder062
+    4300032: Cylinder063
+    4300034: Cylinder064
+    4300036: Cylinder065
+    4300038: Roman Thing04
+    4300040: Box015
+    4300042: Cylinder058
+    4300044: Cylinder059
+    4300046: Cylinder060
+    4300048: Cylinder061
+    4300050: Roman Thing05
+    4300052: Box014
+    4300054: Cylinder054
+    4300056: Cylinder055
+    4300058: Cylinder056
+    4300060: Cylinder057
+    4300062: Roman Thing06
+    4300064: Box013
+    4300066: Cylinder050
+    4300068: Cylinder051
+    4300070: Cylinder052
+    4300072: Cylinder053
+    4300074: Roman Thing07
+    4300076: Box012
+    4300078: Cylinder046
+    4300080: Cylinder047
+    4300082: Cylinder048
+    4300084: Cylinder049
+    4300086: Roman Thing08
+    4300088: Box011
+    4300090: Cylinder042
+    4300092: Cylinder043
+    4300094: Cylinder044
+    4300096: Cylinder045
+    4300098: Roman Thing09
+    4300100: Box010
+    4300102: Cylinder038
+    4300104: Cylinder039
+    4300106: Cylinder040
+    4300108: Cylinder041
+    4300110: Roman Thing10
+    4300112: Box009
+    4300114: Cylinder034
+    4300116: Cylinder035
+    4300118: Cylinder036
+    4300120: Cylinder037
+    4300122: Roman Thing11
+    4300124: Box008
+    4300126: Cylinder030
+    4300128: Cylinder031
+    4300130: Cylinder032
+    4300132: Cylinder033
+    4300134: Roman Thing12
+    4300136: Box007
+    4300138: Cylinder026
+    4300140: Cylinder027
+    4300142: Cylinder028
+    4300144: Cylinder029
+    4300146: Roman Thing13
+    4300148: Box006
+    4300150: Cylinder022
+    4300152: Cylinder023
+    4300154: Cylinder024
+    4300156: Cylinder025
+    4300158: Roman Thing14
+    4300160: Box005
+    4300162: Cylinder018
+    4300164: Cylinder019
+    4300166: Cylinder020
+    4300168: Cylinder021
+    4300170: Roman Thing15
+    4300172: Box004
+    4300174: Cylinder014
+    4300176: Cylinder015
+    4300178: Cylinder016
+    4300180: Cylinder017
+    4300182: Roman Thing16
+    4300184: Box003
+    4300186: Cylinder010
+    4300188: Cylinder011
+    4300190: Cylinder012
+    4300192: Cylinder013
+    4300194: Roman Thing17
+    4300196: Box002
+    4300198: Cylinder006
+    4300200: Cylinder007
+    4300202: Cylinder008
+    4300204: Cylinder009
+    4300206: Roman Thing18
+    4300208: Cylinder005
+    4300210: Cylinder004
+    4300212: Cylinder003
+    4300214: Cylinder001
+    4300216: Box001
+    4300218: Roman Thing19
+    4300220: Box019
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

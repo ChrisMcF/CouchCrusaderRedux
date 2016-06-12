@@ -1,0 +1,198 @@
+<actors>
+	<actor> name = Makaria; avatar=PaladinAvatar
+	<actor> name = Eugene; avatar=SorcererAvatar
+	<actor> name = Latch; avatar=RangedAvatar
+	<actor> name = Yue; avatar=ReaverAvatar
+	<actor> name = Scylla; avatar=ScyllaAvatar
+
+
+<dialogue>
+
+<turn> id = 1
+	[who] 0
+	... Where am I?
+	Who are you people?
+	AH!!! A RAT!!
+	
+<turn> id = 2
+	[who] 1
+	And just WHO is it that you think you are?
+	I am no mere rat!
+	I am Eugene! Lord of all within my kingdom!
+	
+<turn> id = 3
+	[who] 1
+	Besides, I'm not nearly as disgusting as the small thing here carrying the sword.
+	What even IS that thing? I have never seen anything like it.
+	
+<turn> id = 4
+	[who] 3
+	*Disgusting.. HA! This coming from a rat?
+	I am the great warrior Yue! 
+	Known for my bravery throughout the land.*
+	
+<turn> id = 5
+	[who] 1
+	Madame I have no idea what primitive language that is you're uttering.
+	Apologies but we have no idea what it is you are saying.
+	
+<turn> id = 6
+	[who] 3
+	*Figures, what would a rat know anyway?*
+	
+<turn> id = 7
+	[who] 2
+	I'm latch...
+	Not that anyone is asking.
+	
+<turn> id = 8
+	[who] 3
+	*Haha, how do you get a fat skeleton?*
+
+<turn> id = 9
+	[who] 1
+	MADAME, WE CANNOT UNDERSTAND YOU.
+
+<turn> id = 10
+	[who] 0
+	I think she's trying to ask how a skeleton ends up overweight.
+
+<turn> id = 11
+	[who] 2
+	What??
+	You've never heard of *hic* big boned?
+	
+<turn> id = 12
+	[who] 2
+	Personally, no offence there your ratness, I don't know who any of you are.
+	*hic* I also really don't give a shit.
+	Let's find whoever brought us here. I have a *hic* bone to pick with them.
+	
+<turn> id = 13
+	[who] 0
+	...
+	Seriously?
+	You seriously just said that?
+	
+<turn> id = 14
+	[who] 0
+	[next] -1
+	I'm Makaria, should anyone be remotely interested...
+
+<turn> id = 15
+	[who] 0
+	Wow, who is that?
+	
+<turn> id = 16
+	[who] 1
+	If I had to guess my dear, I'd say she has something to do with our situation.
+	
+<turn> id = 17
+	[who] 2
+	Oh! Well then let's go ask her all about that.
+	We can use all of these pointy things we brought to help us.
+	
+<turn> id = 18
+	[who] 0
+	Wait what??
+	We aren't going to hurt her are we?
+	
+<turn> id = 19
+	[who] 3
+	[next] -1
+	*If she doesn't tell us what we want to know? 
+	Without question.*
+	
+<turn> id = 20
+	[who] 4
+	Who are you people?
+	AH!! A RAT!!
+
+<turn> id = 21
+	[who] 2
+	Ah Shit...
+	Not this aga..
+	
+<turn> id = 22
+	[who] 1
+	And just WHO is it that you think you are?
+	I am no mere rat!
+	I am Eugene! Lord of all within my kingdom!
+	
+<turn> id = 23
+	[who] 4
+	Like, who cares?
+	No one comes into my room.
+	The last thing I need is whatever it is you are messing up the place.
+	
+<turn> id = 24
+	[who] 3
+	*Yes, I'd hate for that to happen...*
+	
+<turn> id = 25
+	[who] 4
+	Huh? What did that one say?
+
+<turn> id = 26
+	[who] 0
+	We really don't know.
+	She... Wait, what even is your name?
+	
+<turn> id = 27
+	[who] 3
+	Yue.
+	
+<turn> id = 28
+	[who] 0
+	Me?
+	No YOU. What is YOUR name?
+	
+<turn> id = 29
+	[who] 2
+	Forget that. *hic*
+	Who she is isn't *hic* important.
+	You! Slime woman! What are we doing here?
+	
+<turn> id = 30
+	[who] 4
+	Me? 
+	How the hell should I know?
+	I like, said I don't want you things here.
+	
+<turn> id = 31
+	[who] 2
+	Right, that's bollocks.
+	Open this gate girly.
+	I need to teach you some manners.
+	
+<turn> id = 32
+	[who] 0
+	Wait no!
+	Do we HAVE to?
+	I mean violence doesn't solve anything right?
+
+<turn> id = 33
+	[who] 1
+	Aren't you a demon my dear?
+	
+<turn> id = 34
+	[who] 0
+	Demon princess if you want to be technical about it.
+	Doesn't mean I'm about to kill her.
+	I mean... Just look at her. Wow.
+
+<turn> id = 35
+	[who] 2
+	[next] -1
+	Sorry lassie, your weird crush aside.
+	Slime lady here has to die.
+	She's between me and valuable *hic* drinking time.
+	
+	
+
+
+
+
+
+
+

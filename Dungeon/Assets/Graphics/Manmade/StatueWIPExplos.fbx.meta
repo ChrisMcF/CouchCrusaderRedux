@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 46d8798076b878c4fa5fd3b830d78412
+timeCreated: 1449024964
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_end
+    100006: DestructStatue
+    100008: DestructStatue_cell
+    100010: DestructStatue_cell.001
+    100012: DestructStatue_cell.002
+    100014: DestructStatue_cell.003
+    100016: DestructStatue_cell.004
+    100018: DestructStatue_cell.005
+    100020: DestructStatue_cell.006
+    100022: DestructStatue_cell.007
+    100024: DestructStatue_cell.008
+    100026: DestructStatue_cell.009
+    100028: DestructStatue_cell.010
+    100030: Origin
+    100032: OriginalStatue
+    100034: Plane
+    100036: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone_end
+    400006: DestructStatue
+    400008: DestructStatue_cell
+    400010: DestructStatue_cell.001
+    400012: DestructStatue_cell.002
+    400014: DestructStatue_cell.003
+    400016: DestructStatue_cell.004
+    400018: DestructStatue_cell.005
+    400020: DestructStatue_cell.006
+    400022: DestructStatue_cell.007
+    400024: DestructStatue_cell.008
+    400026: DestructStatue_cell.009
+    400028: DestructStatue_cell.010
+    400030: Origin
+    400032: OriginalStatue
+    400034: Plane
+    400036: //RootNode
+    2300000: DestructStatue
+    2300002: DestructStatue_cell
+    2300004: DestructStatue_cell.001
+    2300006: DestructStatue_cell.002
+    2300008: DestructStatue_cell.003
+    2300010: DestructStatue_cell.004
+    2300012: DestructStatue_cell.005
+    2300014: DestructStatue_cell.006
+    2300016: DestructStatue_cell.007
+    2300018: DestructStatue_cell.008
+    2300020: DestructStatue_cell.009
+    2300022: DestructStatue_cell.010
+    2300024: Origin
+    2300026: OriginalStatue
+    2300028: Plane
+    2300030: //RootNode
+    3300000: DestructStatue
+    3300002: DestructStatue_cell
+    3300004: DestructStatue_cell.001
+    3300006: DestructStatue_cell.002
+    3300008: DestructStatue_cell.003
+    3300010: DestructStatue_cell.004
+    3300012: DestructStatue_cell.005
+    3300014: DestructStatue_cell.006
+    3300016: DestructStatue_cell.007
+    3300018: DestructStatue_cell.008
+    3300020: DestructStatue_cell.009
+    3300022: DestructStatue_cell.010
+    3300024: Origin
+    3300026: OriginalStatue
+    3300028: Plane
+    3300030: //RootNode
+    4300000: Origin
+    4300002: DestructStatue_cell.010
+    4300004: DestructStatue_cell.009
+    4300006: DestructStatue_cell.008
+    4300008: DestructStatue_cell.007
+    4300010: DestructStatue_cell.006
+    4300012: DestructStatue_cell.005
+    4300014: DestructStatue_cell.004
+    4300016: DestructStatue_cell.003
+    4300018: DestructStatue_cell.002
+    4300020: DestructStatue_cell.001
+    4300022: DestructStatue_cell
+    4300024: Plane
+    4300026: OriginalStatue
+    4300028: DestructStatue
+    6400000: DestructStatue_cell
+    6400002: DestructStatue_cell.001
+    6400004: DestructStatue_cell.002
+    6400006: DestructStatue_cell.003
+    6400008: DestructStatue_cell.004
+    6400010: DestructStatue_cell.005
+    6400012: DestructStatue_cell.006
+    6400014: DestructStatue_cell.007
+    6400016: DestructStatue_cell.008
+    6400018: DestructStatue_cell.009
+    6400020: DestructStatue_cell.010
+    6400022: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

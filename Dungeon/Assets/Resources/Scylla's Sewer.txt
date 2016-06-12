@@ -1,0 +1,77 @@
+<actors>
+	<actor>name=Makaria; avatar=PaladinAvatar //0
+	<actor>name=Yue; avatar=ReaverAvatar //1
+	<actor>name=Latch; avatar=RangedAvatar //2
+	<actor>name=Eugene; avatar=SorcererAvatar //3
+	<actor>name=Scylla; avatar=ScyllaAvatar // 4
+	
+
+<dialogue>
+
+ 	<turn>id=1
+		[who] 3
+		Well if we're stuck together I feel some introductions are in order.. 
+		Horned Woman, tell us about yourself?
+		
+		
+	<turn>id=2
+		[who] 0
+		uh, hi... (rude)
+		...
+		my name is Makaria and I’m a Paladin.
+
+	<turn>id=3
+		[who] 1
+		That’s unusual. 
+		Demons are generally berserkers, why are you a paladin?
+
+	<turn>id=4
+		[who] 0
+		well. 
+		I guess it’s because I really like helping people.
+
+	<turn>id=5
+		[who] 2
+		[next] -1
+		demons aren’t known for being kind.
+		
+		
+		
+		
+	<turn>id=6
+		[who] 0
+		...
+		What about you rat-boy?
+		
+		
+	<turn>id=7
+		[who] 3
+		R-Rat B-b-b...
+		FILTHY PEASANT! HOW DARE YOU NOT KNOW WHO I AM!!
+
+	<turn>id=8
+		[who] 0
+		well… since I don’t know. Why don’t you tell me?
+
+	<turn>id=9
+		[who] 3
+		I am Eugene the impeccable!! 
+		King of Rats!!
+		Regent of the...
+
+	<turn>id=10
+		[who] 2
+		Wait, are you a rat?
+		
+	<turn>id=11
+		[who] 3
+		[next] -1
+		Are you both blind AND stupid? Of course I’m a rat!
+		What other creature is as noble and elegant as I? ...rediculous!
+	
+		
+		
+		
+		
+ 		
+ 	

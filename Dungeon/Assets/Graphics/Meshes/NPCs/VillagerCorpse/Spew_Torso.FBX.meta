@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 83d5686b94213b34c89f45d606d4d801
+timeCreated: 1447804035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: bone_arm_low_l
+    100004: bone_arm_low_r
+    100006: bone_arm_up_l
+    100008: bone_arm_up_r
+    100010: bone_chest
+    100012: bone_hand_r
+    100014: bone_kishky
+    100016: bone_organ
+    100018: Bone_Root
+    100020: bone_skeleton
+    100022: Chest Ref
+    100024: Hand Right Ref
+    100026: m3bone_root
+    100028: Origin Ref
+    100030: //RootNode
+    100032: VillagerMan11
+    100034: VillagerMan13
+    100036: Weapon Ref
+    400000: _M3_Anim_Data
+    400002: bone_arm_low_l
+    400004: bone_arm_low_r
+    400006: bone_arm_up_l
+    400008: bone_arm_up_r
+    400010: bone_chest
+    400012: bone_hand_r
+    400014: bone_kishky
+    400016: bone_organ
+    400018: Bone_Root
+    400020: bone_skeleton
+    400022: Chest Ref
+    400024: Hand Right Ref
+    400026: m3bone_root
+    400028: Origin Ref
+    400030: //RootNode
+    400032: VillagerMan11
+    400034: VillagerMan13
+    400036: Weapon Ref
+    4300000: VillagerMan11
+    4300002: VillagerMan13
+    7400000: SpewTorso_Idle
+    7400002: SpewTorso_Attack
+    7400004: SpewTorso_Run
+    7400006: SpewTorso_Death
+    7400008: SpewTorso_Damaged
+    9500000: //RootNode
+    13700000: VillagerMan11
+    13700002: VillagerMan13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpewTorso_Idle
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 91
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l/bone_arm_low_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_kishky
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_organ
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_skeleton
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: VillagerMan11
+        weight: 1
+      - path: VillagerMan13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewTorso_Attack
+      takeName: Take 001
+      firstFrame: 93
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .4375
+        functionName: DamagePlayer
+        data: 
+        objectReferenceParameter: {fileID: 196836, guid: 22fd987dea4e21545a8622a824ebd96c,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l/bone_arm_low_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_kishky
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_organ
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_skeleton
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: VillagerMan11
+        weight: 1
+      - path: VillagerMan13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewTorso_Run
+      takeName: Take 001
+      firstFrame: 128
+      lastFrame: 183
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l/bone_arm_low_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_kishky
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_organ
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_skeleton
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: VillagerMan11
+        weight: 1
+      - path: VillagerMan13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewTorso_Death
+      takeName: Take 001
+      firstFrame: 187
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l/bone_arm_low_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_kishky
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_organ
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_skeleton
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: VillagerMan11
+        weight: 1
+      - path: VillagerMan13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SpewTorso_Damaged
+      takeName: Take 001
+      firstFrame: 205
+      lastFrame: 211
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_l/bone_arm_low_l
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Hand
+          Right Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_arm_up_r/bone_arm_low_r/bone_hand_r/Weapon
+          Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_kishky
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/bone_organ
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_chest/Chest Ref
+        weight: 1
+      - path: m3bone_root/Bone_Root/bone_skeleton
+        weight: 1
+      - path: m3bone_root/Origin Ref
+        weight: 1
+      - path: VillagerMan11
+        weight: 1
+      - path: VillagerMan13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 90
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

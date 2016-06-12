@@ -1,0 +1,1882 @@
+fileFormatVersion: 2
+guid: dfd909ea98744634691eb7d07e83b19e
+timeCreated: 1449201363
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Bone_M_Down
+    100004: Bone_M_Up
+    100006: bone_new0
+    100008: bone_new2
+    100010: Bone_Root
+    100012: //RootNode
+    100014: Firaga1
+    100016: Firaga2
+    100018: Firaga3
+    100020: Firaga4
+    100022: Firaga5
+    100024: Firaga6
+    100026: Firaga7
+    100028: Firaga8
+    100030: Firaga9
+    100032: L_1
+    100034: L_2
+    100036: L_W_Main
+    100038: LD_W_0
+    100040: LD_W_1
+    100042: LD_W_2
+    100044: LD_W_3
+    100046: LU_W_0
+    100048: LU_W_1
+    100050: LU_W_2
+    100052: m3bone_root
+    100054: R_W_Main
+    100056: RD_W_0
+    100058: RD_W_1
+    100060: RD_W_2
+    100062: RD_W_3
+    100064: Rib_Main
+    100066: RU_W_0
+    100068: RU_W_1
+    100070: RU_W_2
+    400000: _M3_Anim_Data
+    400002: Bone_M_Down
+    400004: Bone_M_Up
+    400006: bone_new0
+    400008: bone_new2
+    400010: Bone_Root
+    400012: //RootNode
+    400014: Firaga1
+    400016: Firaga2
+    400018: Firaga3
+    400020: Firaga4
+    400022: Firaga5
+    400024: Firaga6
+    400026: Firaga7
+    400028: Firaga8
+    400030: Firaga9
+    400032: L_1
+    400034: L_2
+    400036: L_W_Main
+    400038: LD_W_0
+    400040: LD_W_1
+    400042: LD_W_2
+    400044: LD_W_3
+    400046: LU_W_0
+    400048: LU_W_1
+    400050: LU_W_2
+    400052: m3bone_root
+    400054: R_W_Main
+    400056: RD_W_0
+    400058: RD_W_1
+    400060: RD_W_2
+    400062: RD_W_3
+    400064: Rib_Main
+    400066: RU_W_0
+    400068: RU_W_1
+    400070: RU_W_2
+    4300000: Firaga1
+    4300002: Firaga2
+    4300004: Firaga3
+    4300006: Firaga4
+    4300008: Firaga5
+    4300010: Firaga6
+    4300012: Firaga7
+    4300014: Firaga8
+    4300016: Firaga9
+    7400000: BF_Spawn
+    7400002: BF_Mas_Idle
+    7400004: BF_Mas_Attack
+    7400006: BF_Mas_Transform
+    7400008: BF_Fem_Transform
+    7400010: BF_Fem_Idle
+    7400012: BF_Drill
+    7400014: BF_Walk
+    7400016: BF_Hurt
+    7400018: BF_Mas_Die
+    7400020: BF_Fem_Die
+    7400022: BF_Fem_Attack
+    7400024: BF_Mas_Attack2
+    9500000: //RootNode
+    13700000: Firaga1
+    13700002: Firaga2
+    13700004: Firaga3
+    13700006: Firaga4
+    13700008: Firaga5
+    13700010: Firaga6
+    13700012: Firaga7
+    13700014: Firaga8
+    13700016: Firaga9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BF_Spawn
+      takeName: Take 001
+      firstFrame: 74
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Mas_Idle
+      takeName: Take 001
+      firstFrame: 94
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 2.99747658
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 2.99747658
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Mas_Attack
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .248945236
+        functionName: MakeEffect
+        data: 
+        objectReferenceParameter: {fileID: 158866, guid: aca9c683afb522e448e53e0b2cf85688,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Mas_Transform
+      takeName: Take 001
+      firstFrame: 269
+      lastFrame: 291
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Fem_Transform
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 306
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Fem_Idle
+      takeName: Take 001
+      firstFrame: 311
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 2.99662113
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 2.99662113
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Drill
+      takeName: Take 001
+      firstFrame: 344
+      lastFrame: 362
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 3.00002813
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 3.00002813
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Walk
+      takeName: Take 001
+      firstFrame: 366
+      lastFrame: 394
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 2.00653291
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 2.00653291
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Hurt
+      takeName: Take 001
+      firstFrame: 429
+      lastFrame: 438
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Mas_Die
+      takeName: Take 001
+      firstFrame: 433
+      lastFrame: 447
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .29756099
+        functionName: SizeDown
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Fem_Die
+      takeName: Take 001
+      firstFrame: 448
+      lastFrame: 456
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .361304641
+        functionName: SizeDown
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Fem_Attack
+      takeName: Take 001
+      firstFrame: 283
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .746834755
+        functionName: CallAttack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: BF_Mas_Attack2
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: ZSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: .000662744744
+            value: 3.00615716
+            inSlope: -.0048887236
+            outSlope: -.0048887236
+            tangentMode: 0
+          - time: .501226842
+            value: 2.98706818
+            inSlope: .293602437
+            outSlope: .293602437
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      - name: RSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events:
+      - time: .497890472
+        functionName: MakeEffect
+        data: 
+        objectReferenceParameter: {fileID: 169896, guid: db677750eeef8aa4eae587b14a108482,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .550766945
+        functionName: RemoveEffect
+        data: Drill
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _M3_Anim_Data
+        weight: 1
+      - path: Firaga1
+        weight: 1
+      - path: Firaga2
+        weight: 1
+      - path: Firaga3
+        weight: 1
+      - path: Firaga4
+        weight: 1
+      - path: Firaga5
+        weight: 1
+      - path: Firaga6
+        weight: 1
+      - path: Firaga7
+        weight: 1
+      - path: Firaga8
+        weight: 1
+      - path: Firaga9
+        weight: 1
+      - path: m3bone_root
+        weight: 1
+      - path: m3bone_root/Bone_Root
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Down
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LD_W_0/LD_W_1/LD_W_2/bone_new2/LD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/L_W_Main/LU_W_0/LU_W_1/LU_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RD_W_0/RD_W_1/RD_W_2/bone_new0/RD_W_3
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1
+        weight: 1
+      - path: m3bone_root/Bone_Root/Bone_M_Up/R_W_Main/RU_W_0/RU_W_1/RU_W_2
+        weight: 1
+      - path: m3bone_root/Rib_Main
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_1
+        weight: 1
+      - path: m3bone_root/Rib_Main/L_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

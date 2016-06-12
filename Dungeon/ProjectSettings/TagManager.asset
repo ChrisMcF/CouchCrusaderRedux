@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Salts
+  - Boss
+  - CamCollider
+  - LevelSpecific
+  - Bath
+  - Door
+  - Fx
+  - Initialize
+  - SlimeZone
+  - Death
+  - ResurrectionArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundLayer
+  - CamCollider
+  - Salts
+  - CollideWithSalts
+  - CollideWithPlayer
+  - CameraObstacle
+  - CharacterSelectScene
+  - Player
+  - Enemy
+  - CollideOnlyWithBoss
+  - IgnoreLights
+  - fence
+  - ColliderWithPlayer+Salts
+  - MausoleumRubble
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
